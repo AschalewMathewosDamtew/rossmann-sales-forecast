@@ -1,4 +1,0 @@
-fastapi
-uvicorn
-pydantic
-joblib  # or any other library used for model serialization
